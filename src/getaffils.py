@@ -37,14 +37,7 @@ def process(name='../from-pcs/4-dec-2013/listOfSubmissions (10).csv'):
 def test():
     return process()
 
-# if __name__ == '__main__':
-#     fname = sys.argv[1]
-#     print 'loading from file ', fname
-#     ff = csv.reader(open(fname,'rU'))
-#     rows = [x for x in ff]
-#     print len(rows)
-#     trash, trash, headers  = rows[0],rows[1],rows[2]
-#     submissions = rows[3:]
-#     # print submissions
-#     his = header_idxs(headers)
-#     print ' headers ', his
+if __name__ == '__main__':
+    fname = sys.argv[1]
+    print 'loading from file ', fname
+    process(fname)
