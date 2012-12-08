@@ -23,7 +23,8 @@ def read_file(name):
     rows = [x for x in ff]
     trash, trash, headers  = rows[0],rows[1],rows[2]
     submissions = [r for r in rows[3:] if len(r)]
-    return [compile_affils(s, header_idxs(headers)) for s in submissions]
+    return [{'primary': compile_affils(s, header_idxs(headers)), '2ndary': compile_affils(s, header_idxs(headers,are=second_re))} for s in submissions]
+            
 
 def process(name='../from-pcs/4-dec-2013/listOfSubmissions (10).csv'):
     infile = name
