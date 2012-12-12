@@ -1,5 +1,5 @@
 
-import csv, fnmatch, re, os
+import csv, fnmatch, re, os, json
 
 def touch(fname, times=None):
     with file(fname, 'a'):
@@ -35,7 +35,7 @@ class AffiliationDB:
     def load(self):
         ## loads the highest-incremented database to disk ##
         data = {}
-        filename = self.get_current_db_filename()
+        filename = os.path.sep.join([DBDIR, self.get_current_db_filename()])
         db = open(filename,'r')
         print "opening ", filename
         rows = csv.reader(db)
@@ -48,26 +48,35 @@ class AffiliationDB:
         # saves the currently loaded dictionary to disk
         # _overwriting the most recent dictionary_ unless auto
         if make_new: self.create_new_db()
-        db = open(self.get_current_db_filename(),'w')
+        filename = os.path.sep.join([DBDIR, self.get_current_db_filename()])
+        db = open(filename,'w')
         writer = csv.writer(db)
         for canon,row in self._data.iteritems():
+            print canon,row
             rsers = [self._serial_cell(cell) for cell in row ]
             rcanon = self._serial_cell(canon)
-            db.writerow([rcanon] + rsers)            
+            writer.writerow([rcanon] + rsers)            
         db.close()
-    def get_row(self,canon): return self._data[canon]
+    def get_row(self,canon): return self._data.get(canon)
     def set_row(self,canon,row): self._data[canon] = row
-    def add(self, new_affil, canon):
-        assert self.get_canonical(canon) is not None, "error - key {0} not found".format(key)
-        row = self.get_row(canon)
-        if new_affil not in row: self.set_row(canon, new_affil.append(row))
+    def add(self, canon, new_affil):
+        if new_affil == canon: return True
+        if self.get_row(new_affil):
+            # means we want to add new affil (and all its affiliations as an affil of canon)
+            return self.merge_rows(canon, new_affil)        
+        row = self.get_row(canon) or []
+        if new_affil and new_affil not in row:
+            self.set_row(canon, row + [new_affil])
+        else:
+            self.set_row(canon, row)
     def get_canonical(self, canon):
         # looks up for an exact match
         return self._data.get(canon)
     def merge_rows(self,target_canon,src_canon):
         ## merges two lines
-        self.add(src_canon,target_canon)
-        self.set_row(target_canon, self.get_row(target_canon) + self.get_row(src_canon))
+        new_row = [src_canon] + (self.get_row(target_canon) or []) + (self.get_row(src_canon) or [])
+        new_row = list(set(new_row)) # de-duplicate
+        self.set_row(target_canon, new_row)
         del self._data[src_canon]
 ## 
 def match(db, target):
@@ -76,8 +85,18 @@ def match(db, target):
     ## @param target is a 3-tuple ( Institution, City, Country ) 
     pass
 
+def load_json(json_file, db):
+    jdata = json.loads(open(json_file,'r'))
+    def load(authors):
+        auth = (author['Institution'], author['City'], author['Country'])
+        if db.get(auth): pass
+        db.
+    [[author for author in paper['primary'].values()] for paper in jdata]
+    [[author for author in paper['2ndary'].values()] for paper in jdata]
+    
+
 def load_in(filename):
-    db = load_db()
+    db = AffiliationDB()
     for to_match in load_json(filename):
         c_match = match(db, candidate)
         if c_match not in db: db.add(candidate, c_match)
