@@ -3,7 +3,7 @@ Sheffield Hallam University|Sheffield|UK
 University College London|London|UK
 CUHK|HK|China
 Panafold|Mountain View|US
-University of Otago|Dunedin|New Zealand
+Department of Information Science|Dunedin|New Zealand
 Technical University of Lisbon|Lisbon|Portugal
 Hasso Plattner Institute|Potsdam|Germany
 IRISA/INSA de Rennes|Rennes|France
@@ -61,7 +61,7 @@ University College Cork|Cork|Ireland
 Palo Alto Research Center (PARC)|Palo Alto|US
 Adobe Systems|San Francisco|US
 ATR Intelligent Robotics and Communication Laboratories|Soraku-gun|Japan
-National Taipei University|Taipei|Taiwan
+Department of Computer Science and Information Engineering|Taipei|Taiwan
 University of North Carolina at Charlotte|Charlotte|US
 University of Nebraska, Lincoln|Lincoln|US
 Aalborg University|Aalborg|Denmark
@@ -165,6 +165,7 @@ Arizona State University|Mesa|US
 School of Software and Microelectronics|Xi'an|China
 University of Leicester|Leicester|UK
 University of California, Los Angeles|Los Angeles|US
+e-Media Lab, Groep T - Leuven Engineering College, Leuven|Leuven|Belgium
 Glasgow Caledonian University|Glasgow|UK
 University of California at Santa Cruz|Santa Cruz|US
 University of Konstanz|Konstanz|Germany
@@ -334,6 +335,7 @@ University of Ioannina|Ioannina|Greece
 Northumbria University|Newcastle-upon-Tyne|UK
 Foundation for Research and Technology - Hellas|Heraklion|Greece
 The University of Melbourne|Melbourne|Australia
+Empirical, Inc.|Portland|US
 London Knowledge Lab|London|UK
 North South University|Dhaka|Bangladesh
 ETIC, EA 4432. User Experience Lab|Metz|France
@@ -421,7 +423,7 @@ Tufts University|Medford|US
 University of Tallinn|Tallinn|Estonia
 Kingston University|Kingston|Canada
 Sino-European Usability Center|Dalian|China
-KAIST|Daejeon,|Republic of Korea
+Department of Industrial Design, KAIST|Daejeon,|Republic of Korea
 Saitama University|Saitama|Japan
 AT&T Foundry|Palo Alto|US
 University of East Anglia|Norwich|UK
@@ -431,7 +433,7 @@ University Toulouse 3 & CNRS|Toulouse|France
 UC San Diego|La Jolla|US
 Simon Fraser University, SFU|Vancouver|Canada
 Aix Marseille University|Aix Marseille|France
-National Taiwan University of Science and Technology|Taipei|Taiwan
+Department of Industrial and Commercial Design|Taipei|Taiwan
 Hewlett Packard|Bangalore|India
 Kochi University of Technology|Kami|Japan
 Hanyang University|Seoul|Republic of Korea
@@ -614,8 +616,8 @@ Augsburg University of Applied Sciences|Augsburg|Germany
 University of Technology, Sydney|Ultimo|Australia
 Lahore University of Management Sciences|Lahore|Pakistan
 Honda Research Institute USA|Mountain View|US
-Deakin University|Geelong|Australia
-University of Kiel|Kiel|Germany
+Faculty of Science and Technology, Deakin University|Geelong|Australia
+Department of Computer Science|Kiel|Germany
 University of Jinan|Jinan|China
 LIMSI-CNRS|Orsay|France
 IBM Research|Hawthorne|US
@@ -625,9 +627,9 @@ Hartnell College|Salinas|US
 Queen Mary, University of London|London|UK
 ENIS|Sfax|Tunisia
 Inria, Univ Paris-Sud & CNRS|Orsay|France
-Stockholm University|Stockholm|Sweden
+Department of Computing and Systems Sciences|Stockholm|Sweden
 The DuKode Studio|Brooklyn|US
-University of Illinois|Urbana|US
+Department of Computer Science|Urbana|US
 Centre for Sustainable Communications|Stockholm|Sweden
 Case Western Reserve University|Cleveland|US
 Cisco System, Inc.|San Jose|US
@@ -924,7 +926,7 @@ Dai Nippon Printing Co., Ltd.|Tokyo|Japan
 Arizona State University|Phoenix|US
 Hellenic Open University|Patras|Greece
 Keio-NUS CUTE Center|Singapore|Singapore
-Helsinki University|Helsinki|Finland
+Department of Psychology|Helsinki|Finland
 University of Colorado at Boulder|Boulder|US
 INRIA|Paris|France
 University of Stuttgart|Stuttgart|Germany
@@ -979,12 +981,12 @@ DPU - the danish scool of education, aarhus university|Copenhagen|Denmark
 Missouri Western State University|Saint Joseph|US
 Japan Advanced Institute of Science and Technology|Ishikawa|Japan
 Universidad de Zaragoza (Spain)|Zaragoza|Spain
-University of Nicosia|Nicosia|Cyprus
+Department of Management and MIS, University of Nicosia|Nicosia|Cyprus
 University of Minho|Braga|Portugal
 Graduate School of Media Design, Keio University|Yokohama|Japan
 Fujitsu Limited|Kawasaki|Japan
 DialogDesign|Stenlose|Denmark
-Swansea University|Swansea|UK
+FIT Lab, Swansea University|Swansea|UK
 Hewlett Packard|Palo Alto|US
 UMBC|Baltimore|US
 DGAC DSNA|Toulouse|France
@@ -1047,7 +1049,7 @@ University of the West of England|Bristol|UK
 University of Crete|Heraklion|Greece
 Ensimag|Grenoble|France
 University of Salzburg|Salzburg|Austria
-University of California, Irvine|Irvine|US
+Department of Informatics, UC Irvine|Irvine|US
 University of Arts|Berlin|Germany
 University of Georgia|Athens|US
 the University of New South Wales|Sydney|Australia
@@ -1116,7 +1118,7 @@ Pennsylvania State University|University Park|US
 Direct Partners|Marina del Rey|US
 Design for Context|Bethesda|US
 NRL|Washington|US
-KAIST|Daejeon|Republic of Korea
+Department of Industrial Design, KAIST|Daejeon|Republic of Korea
 HCIL|College Park|US
 Parsons The New School for Design|New York|US
 SPARK Experience Design|Rockville|US
@@ -1133,6 +1135,7 @@ Interactive Institute|Umea|Sweden
 Theatre Auracaria|Newcastle upon Tyne|UK
 CREATE-NET|Trento|Italy
 University of Wisconsin, Madison|Madison|US
+Department of Industrial Design, Eindhoven University of Technology|Eindhoven|The Netherlands
 University of Guelph|Guelph|Canada
 INRIA|Orsay|France
 University of Lorraine|Metz|France
@@ -1196,11 +1199,11 @@ United Technologies|Hartford|US
 Tel Aviv University|Tel Aviv|Israel
 The University of Hong Kong|Hong Kong|Hong Kong
 University of Illinois at Urbana-Champaign|Singapore|Singapore
-Telecom Paristech|Paris|France
+Department of Social Science, Telecom Paristech|Paris|France
 Mobiel Life @ Stockholm University|Kista|Sweden
 UNC-Charlotte|Charlotte|US
 Otago Polytechnic|Dunedin|New Zealand
-Shinshu University|Nagano|Japan
+Faculty of Engineering|Nagano|Japan
 Mixed Reality Lab|Singapore|Singapore
 Durham University|Durham|UK
 Interaction Design LAB, Yonsei University|Seoul|Republic of Korea
@@ -1299,7 +1302,7 @@ Graduate Institution of Multimedia and Networking|Taipei|R.O.C.(Taiwan)
 University of Michigan, School of Information|Ann Arbor|US
 Inria|Bordeaux|France
 Keio University|Yokohama  City|Japan
-KAIST|Daejeon,|Republic of Korea
+Department of Industrial Design, KAIST|Daejeon,|Republic of Korea
 Archimedes Exhibitions GmbH|Berlin|Germany
 Universidad Complutense de Madrid (UCM)|Madrid|Spain
 DA-IICT|Ahmedebad|India
@@ -1388,6 +1391,7 @@ University of Illinois at Urbana Champaign|Urbana|US
 State University of Rio de Janeiro|Rio de janiero|Brazil
 UNC Charlotte|Charlotte|US
 Madeira-ITI. University of Madeira|Funchal|Portugal
+Department of Industrial Design Eindhoven University of Technology|Eindhoven|The Netherlands
 National Institute of Advanced Industrial Science and Technology|Tsukuba|Japan
 University of California, Riverside|Riverside|US
 Nokia Research Center|Sunnyvale|US
@@ -1410,7 +1414,7 @@ University of Castilla-La Mancha (UCLM)|Albacete|Spain
 University of California, Berkeley|Berkeley|US
 Microsoft Research India|Bangalore|India
 University of Pavia|Pavia|Italy
-Universidade Tecnica de Lisboa|Lisbon|Portugal
+Faculty of Human Kinetics|Lisbon|Portugal
 University of Ontario Institute of Technology|Oshawa|Canada
 IBBT-SMIT/VUB|Brussels|Belgium
 University of Nottingham|Nottingham|UK
