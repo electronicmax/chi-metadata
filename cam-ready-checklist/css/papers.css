@@ -1,0 +1,13 @@
+.checklist td.desc {
+	width:640px;
+	padding: 4px 60px 4px 3px;
+}
+.checklist input {
+	padding:20px;
+	font-size:40pt;
+}
+
+.checklist td.desc pre {
+	font-size:8pt;
+	margin:12px;
+}
