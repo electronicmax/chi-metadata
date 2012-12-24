@@ -1,15 +1,47 @@
-Broken or confused entries
-
+//Broken entries
 
 -|Brooklyn|United States
 ",|Paris|France"
 ||
-|San Diego|US*,|San Diego|USA
+|San Diego|USA
+Singapore|Singapore|Singapore
+None|Hamden|United States
+None|Toronto|Canada
+temp|temp|India
+Universidad Michoacana||
+Universidad Michoacana|Michoac��_�n|Mexico*
 
 
+//Confused Entries
 
 Ajou University|Suwon|Korea
 "Ajou University|Suwon|Korea, Republic of"
 Ajou University|Suwon|Republic of Korea
 Ajou University|Suwon|Republic of Korea*
 Ajou University|Suwon|South Korea
+
+ACES|RENNES|France*,ACES|RENNES|France
+
+"aKAP Innovation, LLC|Rochester|US*","aKAP Innovation, LLC|Rochester|USA"
+
+ASPECT|Blacksburg|US,ASPECT|Blacksburg|United States
+Computer Science|Augsburg|Germany
+
+The Australian National University|Canberra|Australia*
+
+Yonsei University|Seoul|Korea
+"Yonsei University|Seoul|Korea, Republic of"
+Yonsei University|Seoul|Korea*
+Yonsei University|Seoul|Republic of Korea
+Yonsei University|Seoul|Republic of Korea*
+Yonsei University|Seoul|South Korea
+"Interaction Design LAB, Yonsei University|Seoul|Republic of Korea*","Interaction Design LAB, Yonsei University|Seoul|Korea, Republic of"
+
+
+Chiyoda-ku|Tokyo|Japan*
+"CREST|5 Sanban-cho, Chiyoda-ku|Japan"
+
+
+Research department|Gothenburg|Sweden*
+
+
