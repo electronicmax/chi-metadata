@@ -1,0 +1,61 @@
+3c3
+< % llt: re-added flushleft in \terms & \category, added compatibility for the caption package
+---
+> % llt 2011: re-added flushleft in \terms \category & \classification
+7c7
+< % \documentclass{sigchi}
+---
+> % \documentclass{chi2012}
+130c130,132
+< \typeout{Document Class sigchi' <Oct 19, 2011>. Updated for chi 2012
+---
+> \typeout{Document Class `sigchi' <Jul 29, 2012>. Updated for chi 2013
+>   based on chi2012.cls by Michel Beaudouin-Lafon.} % DLC
+> \typeout{Document Class `chi2012' <Oct 19, 2011>. Updated for chi 2012
+675c677
+<   \ProvidesClass{chi2012} [2011/06/06 - V0.16]  % DLC
+---
+>   \ProvidesClass{sigchi} [2011/06/06 - V0.16]  % DLC
+867c869
+< \def\keywords#1{%\if@twocolumn
+---
+> \def\keywords#1{\if@twocolumn
+870,873c872,874
+< %\else \small
+< %\quotation #1
+< %\fi
+< }
+---
+> \else \small
+> \quotation #1
+> \fi}
+880c881
+< %\fi
+---
+> %\fi}
+890c891
+< %\fi
+---
+> %\fi}
+900a902
+> \begin{flushleft}%
+901a904
+> \end{flushleft}%
+927d929
+< \newcounter{copyrightbox} % llt: enable compatibility with the caption package
+1523,1524c1525,1532
+< 	Submitted for review.
+< 	Camera ready papers must include the corresponding ACM copyright statement.
+---
+> Permission to make digital or hard copies of all or part of this work for
+> personal or classroom use is granted without fee provided that copies are
+> not made or distributed for profit or commercial advantage and that copies
+> bear this notice and the full citation on the first page. To copy otherwise,
+> or republish, to post on servers or to redistribute to lists, requires prior
+> specific permission and/or a fee.\\
+> {\confname{CHI'13}}, April 27--May 2, 2013, Paris, France.\\
+> Copyright 2013 ACM 978-1-XXXX-XXXX-X/XX/XX...\$10.00.
+1526c1534
+< % End of sigchi.cls - version 0.01	
+---
+> % End of chi2012.cls - version 0.01	
