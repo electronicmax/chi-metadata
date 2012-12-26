@@ -125,8 +125,6 @@ College of Information Sciences & Technology|State College|US,College of Informa
 College of William and Mary|Williamsburg|United States,College of William and Mary|Williamsburg|US
 Columbia University|New York City|US,Columbia University|New York|United States,Columbia University|New York City|United States
 "Computer and Information Sciences, University of Strathclyde|Glasgow|United Kingdom"
-"Computer Science and Engineering, DUB Group, University of Washington|Seattle|United States"
-"Computer Science and Engineering, DUB Group, University of Washington|Seattle|US"
 "Computer Science Department, University of Maryland|College Park|United States"
 Computer Science|Chicago|United States
 Copenhagen Business School|Frederiksberg|Denmark
@@ -264,14 +262,12 @@ Glasgow Caledonian University|Glasgow|Greece
 Glasgow Caledonian University|Glasgow|UK,Glasgow Caledonian University|Glasgow|United Kingdom,Glasgow Caledonian University|Glasgow|United Kingdom
 "Goldsmiths, University of London|London|UK",Goldsmiths Digital Studios|London|United Kingdom,"Goldsmiths College, University of London|london|United Kingdom","Goldsmiths, University of London|London|United Kingdom",Goldsmiths' University of London|London|United Kingdom,"Department of Computing, Goldsmiths, University of London|London|United Kingdom"
 Google Research|Mountain View|US,Google Research|Mountain View|United States,Google Inc|Mountain View|U.S.,
-Google UK|London|UK,Google UK|London|United Kingdom
-"Google, Inc.|Mountain View|US","Google, Inc.|Mountain View|USA","Google, Inc.|Mountain View|United States","Google, Inc.|Mountain VIew|United States"
-"Google, Inc.|New York|US","Google, Inc.|New York|United States"
+"Google, Inc.|London|UK",Google UK|London|UK,Google UK|London|United Kingdom
+"Google, Inc.|Mountain View|US","Google, Inc.|Mountain View|USA","Google, Inc.|Mountain View|United States","Google, Inc.|Mountain VIew|United States","Google,|Mountain View|United States",Google|Mountain View|United States,Google Inc.|Mountain View|United States,Google Inc.|Mountain View|United States
+"Google, Inc.|New York|US","Google, Inc.|New York|United States",Google|New York|United States
 "Google, Inc.|San Francisco|US",Google|San Francisco|United States
 "Google, Inc.|Sydney|Australia"
-"Google, Switzerland|Zurich|Switzerland",Google|Zurich|Switzerland,Google Switzerland|Zurich|Switzerland
-"Google,|Mountain View|United States",Google|Mountain View|United States,Google Inc.|Mountain View|United States,Google Inc.|Mountain View|United States
-Google|New York|United States
+"Google, Inc.|Zurich|Switzerland","Google, Switzerland|Zurich|Switzerland",Google|Zurich|Switzerland,Google Switzerland|Zurich|Switzerland
 Gothenburg University|Gothenburg|Sweden
 Graduate Institute of Networking and Multimedia|Taipei|Taiwan,Graduate Institute of Networking and Multimedia|Taipei City|Taiwan,Graduate Institute of Networking and Multimedia|Taipei|Taiwan,Graduate Institute of Networking and Multimieda|Taipei|Taiwan,Graduate Institution of Multimedia and Networking|Taipei|R.O.C.(Taiwan),Graduate Institution of Multimedia and Networking|Taipei|R.O.C.(Taiwan)
 "Graduate School of Information Science and Technology, Osaka University|Osaka|Japan"
@@ -384,18 +380,8 @@ Indian Institute of Technology Guwahati|Guwahati|India
 Indian Institute of Technology Indore|Indore|India
 Indian Institute of Technology Kharagpur|Kharagpur|India
 Indian Institute of Technology|Bombay|India
-Indiana University Bloomington|Bloomington|US,Indiana University Bloomington|Bloomington|United States,Indiana Univeristy|Bloomington|United States
-Indiana University Bloomongton|Bloomington|United States
-"Indiana University, Bloomington|Bloomington, IN|United States"
-"Indiana University, Bloomington|Bloomington|United States"
-"Indiana University, Bloomington|Bloomington|US","Indiana University|Bloomington, IN|United States"
-Indiana University|Bloomington|United States
-Indiana University|Bloomington|US,Indiana University|Bloomington|USA
-Indiana University|Blooomington|United States
-Indiana University|Indianapolis|United States
-Indiana-University Purdue University Indianapolis|Indianapolis|United States
-Indiana-University Purdue University Indianapolis|Indianapolis|US
-Indraprastha Institute of Information Technology|Delhi|India,"Indraprastha Institute of Information Technology, Delhi|New Delhi|India",Indraprastha Institute of Information Technology|New Delhi|India
+Indiana University Bloomington|Bloomington|US,Indiana University Bloomington|Bloomington|United States,Indiana Univeristy|Bloomington|United States,Indiana University Bloomongton|Bloomington|United States,"Indiana University, Bloomington|Bloomington, IN|United States","Indiana University, Bloomington|Bloomington|United States","Indiana University, Bloomington|Bloomington|US","Indiana University|Bloomington, IN|United States",Indiana University|Bloomington|United States,Indiana University|Bloomington|US,Indiana University|Bloomington|USA,Indiana University|Blooomington|United States,Indiana University|Indianapolis|United States,Indiana-University Purdue University Indianapolis|Indianapolis|United States,Indiana-University Purdue University Indianapolis|Indianapolis|US
+Indraprastha Institute of Information Technology|Delhi|India,"Indraprastha Institute of Information Technology, Delhi|New Delhi|India",Indraprastha Institute of Information Technology|New Delhi|India,
 Indraprastha Institute of Information Technology|New Delhi|India
 "Industrial Design Engineering, Delft University of Technology|Delft|Netherlands"
 Industrial Systems Institute|Patras|Greece
@@ -404,14 +390,12 @@ INESC-TEC|Porto|Portugal
 Informatics Institute|Ankara|Turkey
 Information Institute|Qingdao|China
 Information Processing Institute|Warsaw|Poland,Information Processing Institute|Warszawa|Poland
-Information School at the University of Washington|Seattle|United States
 "Information Science, Cornell University|Ithaca|United States"
 INRIA -  Institut National de Recherche en Informatique et en Automatique|Le Chesnay Cedex|France
 INRIA & Univ Paris-Sud|Orsay|France
 INRIA Bordeaux Sud-Ouest|Bordeaux|France
 INRIA Lille|Lille|France
 INRIA Rennes|Rennes|France
-"INRIA, Orsay, France & INRIA Chile|Orsay|France"
 "INRIA, Orsay, France & INRIA Chile|Orsay|France"
 "Inria, Univ Paris-Sud & CNRS|Orsay|France"
 INRIA|Bordeaux|France,Inria|Bordeaux|France
@@ -547,7 +531,6 @@ Luebeck University of Applied Sciences|Luebeck|Germany,"Luebeck University of Ap
 "Luminanze Consulting, LLC|Silver Spring|US","Luminanze Consulting, LLC|Silver Spring MD 20902|United States"
 Lund University|Lund|Sweden,"Certec, Division of Rehabilitation Engineering Research, Department of Design Sciences, Lund University|Lund|Sweden"
 Lunghwa University of Science and Technology|Taoyuan|Taiwan
-
 MABL Labs|Seoul|Republic of Korea,"MABL Labs|Seoul|Korea, Republic of"
 MAD-Faculty|Genk|Belgium
 Madeira Institute of Technology|Funchal|Portugal
@@ -853,8 +836,7 @@ Spigit Inc.|Pleasanton|US,Spigit Inc.|Pleasanton|United States
 "Ss. Cyril and Methodius University|Skopje|Macedonia, The Former Yugoslav Republic of"
 "Ss. Cyril and Methodius University|Skopje|Macedonia, The Former Yugoslav Republic of"
 St. John's School|Houston|US,St. John's School|Houston|United States
-Stanford University|Palo Alto|US,Stanford University|Palo Alto|United States
-Stanford University|Stanford|US,Stanford University|Stanford|USA,Stanford Unviersity|Stanford|USA,Stanford|Stanford|United States,Stanford University|stanford|United States,Stanford University|Stanford|United States,Stanford University|Stanford|United States of America
+Stanford University|Palo Alto|US,Stanford University|Stanford|US,Stanford University|Stanford|USA,Stanford Unviersity|Stanford|USA,Stanford|Stanford|United States,Stanford University|stanford|United States,Stanford University|Stanford|United States,Stanford University|Stanford|United States of America,Stanford University|Palo Alto|United States
 Starlab|Barcelona|Spain
 State University of Rio de Janeiro|Rio de janiero|Brazil,State University of Rio de Janeiro|Rio de janiero|Brazil,State University of Rio de Janeiro|Rio de janiero|Brazil
 Stockholm University|Stockholm|Sweden,Stockholm University|Kista|Sweden
@@ -1231,7 +1213,7 @@ University of Virginia|Charlottesville|US,University of Virginia|Charlottesville
 University of Waikato|Hamilton|New Zealand
 University of Warsaw|Warszawa|Poland
 University of Warwick|Coventry|UK,University of Warwick|Coventry|United Kingdom
-University of Washington|Seattle|US,University of Washington|Seattle|USA,University of Washington|Seattle|United States,University of Washingtion|Seattle|USA,University of Washington (UW)|Seattle|United States,"University of Washington, Information School|Seattle|United States"
+University of Washington|Seattle|US,University of Washington|Seattle|USA,University of Washington|Seattle|United States,University of Washingtion|Seattle|USA,University of Washington (UW)|Seattle|United States,"University of Washington, Information School|Seattle|United States","Computer Science and Engineering, DUB Group, University of Washington|Seattle|US","Computer Science and Engineering, DUB Group, University of Washington|Seattle|United States",Information School at the University of Washington|Seattle|United States
 University of Waterloo|Waterloo|Canada,university of waterloo|waterloo|Canada,"University of Waterloo, Waterloo|Waterloo|Canada"
 University of West London|london|UK,University of West London|london|United Kingdom
 University of Western Ontario|London|Canada
