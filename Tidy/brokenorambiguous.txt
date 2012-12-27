@@ -11,6 +11,8 @@ Universidad Michoacana|Michoac��_�n|Mexico
 College of Information Sciences & Technology|State College|United States
 Research department|Gothenburg|Sweden
 Computer Science|Chicago|United States
+Indep. Consultant|London|UK,Indep. Consultant|London|United Kingdom
+Independent Scholar|Honolulu|US,independent scholar|Honolulu|United States
 
 
 
@@ -39,8 +41,7 @@ Yonsei University|Seoul|Korea
 Yonsei University|Seoul|Korea*
 Yonsei University|Seoul|Republic of Korea
 Yonsei University|Seoul|Republic of Korea*
-Yonsei University|Seoul|South Korea
-"Interaction Design LAB, Yonsei University|Seoul|Republic of Korea*","Interaction Design LAB, Yonsei University|Seoul|Korea, Republic of"
+Yonsei University|Seoul|South Korea,"Interaction Design LAB, Yonsei University|Seoul|Republic of Korea*","Interaction Design LAB, Yonsei University|Seoul|Korea, Republic of"
 
 
 Chiyoda-ku|Tokyo|Japan*
