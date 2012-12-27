@@ -103,11 +103,8 @@ Chinese University of Hong Kong|Hong Kong|China,Chinese University of HongKong|h
 Cisco Systems|Boxborough|US
 Citrix Systems|Santa Clara|US,Citrix Systems|Santa Clara|USA,Citrix Systems|Santa Clara|United States
 "City University, London|London|UK","City University, London|London|United Kingdom",City University|London|UK,City University London|London|United Kingdom,City University London|London|UK
-CEA LIST|Fontenay-aux-Roses|France
-CEA LIST|Gif-sur-Yvette|France
-CEA-List|Fontenay-aux-Roses|France
-"CEA, LIST|Fontenay-Aux-Roses|France"
-"CEA, LIST|Gif-sur-Yvette|France"
+CEA LIST|Fontenay-aux-Roses|France,CEA-List|Fontenay-aux-Roses|France,"CEA, LIST|Fontenay-Aux-Roses|France"
+CEA LIST|Gif-sur-Yvette|France,"CEA, LIST|Gif-sur-Yvette|France"
 CICESE|Ensenada|Mexico
 Clarice Technologies|Pune|India
 Clemson University|Clemson|US,Clemson University|Clemson|United States,Clemson University|Clemson|United States,Clemson University|Cemson|United States
