@@ -1,5 +1,3 @@
-//Broken entries
-
 -|Brooklyn|United States
 ",|Paris|France"
 ||
@@ -9,10 +7,17 @@ None|Hamden|United States
 None|Toronto|Canada
 temp|temp|India
 Universidad Michoacana||
-Universidad Michoacana|Michoac��_�n|Mexico*
+Universidad Michoacana|Michoac��_�n|Mexico
+College of Information Sciences & Technology|State College|United States
+Research department|Gothenburg|Sweden
+Computer Science|Chicago|United States
+
 
 
 //Confused Entries
+
+Faculty of Engineering|Nagano|Japan
+Faculty of Human Kinetics|Lisbon|Portugal
 
 Ajou University|Suwon|Korea
 "Ajou University|Suwon|Korea, Republic of"
@@ -20,7 +25,7 @@ Ajou University|Suwon|Republic of Korea
 Ajou University|Suwon|Republic of Korea*
 Ajou University|Suwon|South Korea
 
-ACES|RENNES|France*,ACES|RENNES|France
+ACES|RENNES|France
 
 "aKAP Innovation, LLC|Rochester|US*","aKAP Innovation, LLC|Rochester|USA"
 
@@ -42,6 +47,5 @@ Chiyoda-ku|Tokyo|Japan*
 "CREST|5 Sanban-cho, Chiyoda-ku|Japan"
 
 
-Research department|Gothenburg|Sweden*
 
 
