@@ -529,9 +529,9 @@ National Research Council Canada|Fredericton|Canada
 National Research Council Canada|Moncton|Canada
 National Research Council of Canada|Ottawa|Canada,National Research Council of Canada|Ottawa|Canada,National Research Council Canada|Ottawa|Canada
 National Research Foundation|Pretoria|South Africa
-National Taipei University|Taipei|Taiwan
+National Taipei University|Taipei|Taiwan,Department of Computer Science and Information Engineering|Taipei|Taiwan,Department of Computer Science and Information Engineering|Taipei|Taiwan,Department of Computer Science and Information Engineering|Taiwpei|Taiwan
 National Taiwan University Hospital|Taipei|Taiwan
-National Taiwan University of Science and Technology|Taipei|Taiwan,National Taiwan University of Science and Technology|Taipei|Taiwan,National Taiwan University of Science and Technology|Taipei|Taiwan,"National Taiwan University of Science and Technology, Taipei|Taipei|Taiwan"
+National Taiwan University of Science and Technology|Taipei|Taiwan,National Taiwan University of Science and Technology|Taipei|Taiwan,National Taiwan University of Science and Technology|Taipei|Taiwan,"National Taiwan University of Science and Technology, Taipei|Taipei|Taiwan","Department of Industrial and Commercial Design|Taipei|Taiwan (R.O.C.)"
 National Taiwan University|Taipei|Taiwan,National Taiwan University|Taipei|Taiwan,"National Taiwan University|Taipei|Taiwan, Province of China",National Taiwan University|Taipei City|Taiwan,National Taiwan University|Taipei|Taiwan,National Taiwan University|Tapei|Taiwan,"National Taiwan University, Graduate Institute of Networking and Multimedia|Taipei|Taiwan",Graduate Institute of Networking and Multimedia|Taipei|Taiwan,Graduate Institute of Networking and Multimedia|Taipei City|Taiwan,Graduate Institute of Networking and Multimedia|Taipei|Taiwan,Graduate Institute of Networking and Multimieda|Taipei|Taiwan,Graduate Institution of Multimedia and Networking|Taipei|R.O.C.(Taiwan),Graduate Institution of Multimedia and Networking|Taipei|R.O.C.(Taiwan)
 National Tsing Hua University|HsinChu|Taiwan,National Tsing Hua University|Hsinchu|Taiwan,National Tsing Hua University|HsinChu|Taiwan,National Tsing Hua University|Hsin Chu|Taiwan
 "National University of Ireland, Galway|Galway|Ireland","National University of Ireland, Galway|Galway|Ireland"
@@ -926,13 +926,13 @@ University of Haifa|Haifa|Israel
 University of Hamburg|Hamburg|Germany
 University of Hannover|Hannover|Germany
 University of Hawaii at Manoa|Honolulu|US,University of Hawaii at Manoa|Honolulu|United States of America,University of Hawaii at Manoa|Honolulu|United States
-University of Helsinki|Helsinki|Finland
+University of Helsinki|Helsinki|Finland,Department of Psychology|Helsinki|Finland
 University of Houston|Houston|US,University of Houston|Houston|United States
 University of Iceland|Reykjavik|Iceland
 University of Illinois at Chicago|Chicago|US,University of Illinois at Chicago|Chicago|United States,University of Illinois - Chicago|Chicago|United States,University of Illinois Chicago (UIC)|Chicago|US,University of Illinois Chicago (UIC)|Chicago|United States,"University of Illinois, Chicago|Chicago|United States"
 University of Illinois at Urbana-Champaign|Champaign|US,University of Illinois at Urbana-Champaign|Champaign|United States,University of Illinois at Urbana Champaign|Urbana|United States
 University of Illinois at Urbana-Champaign|Singapore|Singapore
-University of Illinois at Urbana-Champaign|Urbana|United States,"University of Illinois, Urbana-Champaign|Champaign|United States",University of Illinois|Urbana-Champaign|USA,University of Illinois|Urbana|United States,University of Illinois-Urbana|Urbana|United States
+University of Illinois at Urbana-Champaign|Urbana|United States,"University of Illinois, Urbana-Champaign|Champaign|United States",University of Illinois|Urbana-Champaign|USA,University of Illinois|Urbana|United States,University of Illinois-Urbana|Urbana|United States,Department of Computer Science|Urbana|United States
 University of Ioannina|Ioannina|Greece
 University of Iowa|Iowa City|US,University of Iowa|Iowa City|United States
 University of Jinan|Jinan|China,"School of Information Science and Engineering, University of Jinan, China|JiNan|China","School of Information Science and Engineering, University of Jinan, China|JiNan|China"
@@ -1086,7 +1086,7 @@ Xerox Research Center Europe|Meylan|France,Xerox Research Centre Europe|Meylan|F
 Xerox Research Centre Europe|Grenoble|France,Xerox Research Center Europe|Grenoble|France
 Xerox Research Centre India|Bangalore|India
 Xerox|Webster|US,Xerox|Webster|United States
-Xi'an Jiaotong University|Xi'an|China
+Xi'an Jiaotong University|Xi'an|China,School of computer|Xi'an|China
 Xi'an Jiaotong-Liverpool University|Suzhou|China
 Yahoo! Labs|Barcelona|Spain
 Yahoo! Labs|Haifa|Israel
@@ -1099,3 +1099,12 @@ York University|Toronto|Canada
 Yonsei University|Seoul|Republic of Korea,Yonsei University|Seoul|Republic of Korea,Yonsei University|Seoul|South Korea,"Interaction Design LAB, Yonsei University|Seoul|Republic of Korea*","Interaction Design LAB, Yonsei University|Seoul|Korea, Republic of",Yonsei University|Seoul|Korea,"Yonsei University|Seoul|Korea, Republic of",Yonsei University|Seoul|Korea
 Zhejiang University of Technology|Hangzhou|China,Zhejiang University|Hangzhou|China
 BILTIR / Middle East Technical University|Ankara|Turkey,BILTIR / Middle East Technical University|Ankara|Turkey,BILTIR/ Middle East Technical University|Ankara|Turkey
+University of Otago|Dunedin|New Zealand,Department of Information Science|Dunedin|New Zealand
+Penn State|Pennsylvania|US,College of Information Sciences & Technology|State College|United States
+Beijing Jiaotong University|Beijing|China,School of Software Engineering|Beijing|China,School of Software Engineering|Beijing|China
+SINTEF|Oslo|Norway,Department of networked systems and services|Oslo|Norway
+University of Augsburg|Augsburg|Germany,Computer Science|Augsburg|Germany
+Hunan University|Hunan|China,School of Design|Changsha|China
+Xidian University|Xi'an|China,School of Software and Microelectronics|Xi'an|China
+Kiel University of Applied Sciences|Kiel|Germany,Department of Computer Science|Kiel|Germany
+University of Gothenburg|Gothenburg|Sweden,Research department|Gothenburg|Sweden
