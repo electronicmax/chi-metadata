@@ -11,42 +11,21 @@ Universidad Michoacana|Michoac��_�n|Mexico
 College of Information Sciences & Technology|State College|United States
 Research department|Gothenburg|Sweden
 Computer Science|Chicago|United States
-Indep. Consultant|London|UK,Indep. Consultant|London|United Kingdom
+Independent Consultant|London|UK,Indep. Consultant|London|United Kingdom
 Independent Scholar|Honolulu|US,independent scholar|Honolulu|United States
-
-
-
-//Confused Entries
-
-Faculty of Engineering|Nagano|Japan
-Faculty of Human Kinetics|Lisbon|Portugal
-
-Ajou University|Suwon|Korea
-"Ajou University|Suwon|Korea, Republic of"
-Ajou University|Suwon|Republic of Korea
-Ajou University|Suwon|Republic of Korea*
-Ajou University|Suwon|South Korea
-
-ACES|RENNES|France
-
-"aKAP Innovation, LLC|Rochester|US*","aKAP Innovation, LLC|Rochester|USA"
-
-ASPECT|Blacksburg|US,ASPECT|Blacksburg|United States
+unaffiliated|Seattle|United States
+Department of networked systems and services|Oslo|Norway
+Department of Psychology|Helsinki|Finland
+School of computer|Xi'an|China
+School of Design|Changsha|China
+School of Software and Microelectronics|Xi'an|China
+Department of Industrial and Commercial Design|Taipei|Taiwan (R.O.C.)
+Department of Information Science|Dunedin|New Zealand
 Computer Science|Augsburg|Germany
-
-The Australian National University|Canberra|Australia*
-
-Yonsei University|Seoul|Korea
-"Yonsei University|Seoul|Korea, Republic of"
-Yonsei University|Seoul|Korea*
-Yonsei University|Seoul|Republic of Korea
-Yonsei University|Seoul|Republic of Korea*
-Yonsei University|Seoul|South Korea,"Interaction Design LAB, Yonsei University|Seoul|Republic of Korea*","Interaction Design LAB, Yonsei University|Seoul|Korea, Republic of"
-
-
-Chiyoda-ku|Tokyo|Japan*
-"CREST|5 Sanban-cho, Chiyoda-ku|Japan"
-
-
-
-
+Department of Computer Science|Urbana|United States
+Department of Computer Science|Kiel|Germany
+Faculty of Engineering|Nagano|Japan
+Department of Computer Science and Information Engineering|Taipei|Taiwan,Department of Computer Science and Information Engineering|Taipei|Taiwan,Department of Computer Science and Information Engineering|Taiwpei|Taiwan
+School of Software Engineering|Beijing|China,School of Software Engineering|Beijing|China
+Chiyoda-ku|Tokyo|Japan
+Intel Corporation|?|United States
