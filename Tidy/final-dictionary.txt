@@ -479,12 +479,12 @@ Microsoft Research Asia|Beijing|China
 Microsoft Research FUSE Labs|Redmond|US,Microsoft Research FUSE Labs|Redmond|United States
 Microsoft Research India|Bangalore|India,microsoft research India|Bangalore|India,Microsoft Research India|Bangalore|India,Microsoft Research India|Bangalore|India,Microsoft Research India|Bangalore|India,Microsoft Research|Bangalore|India
 Microsoft Research|Cambridge|UK,Microsoft Research|Cambridge|United Kingdom,Microsoft Research|Cambridge|United Kingdom,Microsoft Research Cambridge|Cambridge|United Kingdom
-Microsoft Research|Cambridge|United States,Microsoft Research|Cambridge|USA
+Microsoft Research|Cambridge|US,Microsoft Research|Cambridge|United States,Microsoft Research|Cambridge|USA
 Microsoft Research|Hertzelia|Israel
 Microsoft Research|Mountain View|US,Microsoft Research|Mountain View|United States
-Microsoft Research|Redmond|United States,Microsoft Research|Redmond|USA
-Microsoft|Redmond|USA,Microsoft Through Volt|Redmond|United States,Microsoft|Redmond|United States,Microsoft|Redmond|United States
-Microsoft|Seattle|USA
+Microsoft Research|Redmond|US,Microsoft Research|Redmond|United States,Microsoft Research|Redmond|USA
+Microsoft|Redmond|US,Microsoft|Redmond|USA,Microsoft Through Volt|Redmond|United States,Microsoft|Redmond|United States,Microsoft|Redmond|United States
+Microsoft|Seattle|US,Microsoft|Seattle|USA
 Microsoft|Sunnyvale|US,Microsoft|Sunnyvale|United States
 Middle East Technical University|Ankara|Turkey,Middle Ease Technical University|Ankara|Turkey
 Middle East Technical University|Mersin|Turkey
