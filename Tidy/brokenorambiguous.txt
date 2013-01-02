@@ -8,24 +8,9 @@ None|Toronto|Canada
 temp|temp|India
 Universidad Michoacana||
 Universidad Michoacana|Michoac��_�n|Mexico
-College of Information Sciences & Technology|State College|United States
-Research department|Gothenburg|Sweden
-Computer Science|Chicago|United States
 Independent Consultant|London|UK,Indep. Consultant|London|United Kingdom
 Independent Scholar|Honolulu|US,independent scholar|Honolulu|United States
 unaffiliated|Seattle|United States
-Department of networked systems and services|Oslo|Norway
-Department of Psychology|Helsinki|Finland
-School of computer|Xi'an|China
-School of Design|Changsha|China
-School of Software and Microelectronics|Xi'an|China
-Department of Industrial and Commercial Design|Taipei|Taiwan (R.O.C.)
-Department of Information Science|Dunedin|New Zealand
-Computer Science|Augsburg|Germany
-Department of Computer Science|Urbana|United States
-Department of Computer Science|Kiel|Germany
 Faculty of Engineering|Nagano|Japan
-Department of Computer Science and Information Engineering|Taipei|Taiwan,Department of Computer Science and Information Engineering|Taipei|Taiwan,Department of Computer Science and Information Engineering|Taiwpei|Taiwan
-School of Software Engineering|Beijing|China,School of Software Engineering|Beijing|China
 Chiyoda-ku|Tokyo|Japan
 Intel Corporation|?|United States
